@@ -23,6 +23,7 @@ This command will save all staged changes, along with a brief description from t
 git branch -M <branch>
 ```
 Rename the current branch to <branch>
+  
 ![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_4.PNG)
 
 ```
