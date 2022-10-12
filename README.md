@@ -22,7 +22,7 @@ This command will save all staged changes, along with a brief description from t
 ```
 git branch -M <branch>
 ```
-Rename the current branch to <branch>
+Rename the current branch to branch
   
 ![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_4.PNG)
 
@@ -77,7 +77,7 @@ Clone a repo from github into your local machine.
 ```
 git merge <branch>
 ```
-Merge <branch> into the current branch.
+Merge branch into the current branch.
 ![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_13.PNG)
 
 ```
