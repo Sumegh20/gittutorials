@@ -1,61 +1,92 @@
 # Git & GitHub Assignment
 
 ### Task 1(Demonstrate minimum 15 basic Git command with explanation and screenshot.)
-1. `git init`
+```
+git init
+```
 Command helps to initialize the current directory as a git repository
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_1.PNG)
 
-2. `git add .`
+```
+git add .
+```
 This command adds all change in the working directory to the staging area.
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_2.PNG)
 
-3. `git commit -m "<message>"`
+```
+git commit -m "<message>"
+```
 This command will save all staged changes, along with a brief description from the user
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_3.PNG)
 
-4. `git branch -M <branch>`
+```
+git branch -M <branch>
+```
 Rename the current branch to <branch>
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_4.PNG)
 
-5. `git remote add origin <repo url>`
+```
+git remote add origin <repo url>
+```
 This command centralizes your source code to the other projects.
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_5.PNG)
 
-6. `git push -u origin <branch>`
+```
+git push -u origin <branch>
+```
 Push all the changes of the code into the branch
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_6.PNG)
 
-7. `git status`
+```
+git status
+```
 Shoes list which files are staged, unstaged, and untracked.
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_7.PNG)
 
-8. `git pull origin <branch>`
-Fetch the specified remote’s copy of <branch> and
-immediately merge it into the local copy.
-![]()
+```
+git pull origin <branch>
+```
+Fetch the specified remote’s copy of <branch> and immediately merge it into the local copy.
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_8.PNG)
 
-9. `git branch <branch>`
+```
+git branch <branch>
+```
 Create a new branch in your repository.
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_9.PNG)
 
-10. `git branch`
+```
+git branch
+```
 List all of the branches in your repository.
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_10.PNG)
 
-11. `git checkout <branch>`
+```
+git checkout <branch>
+```
 It helps us to navigate one branch to another branch.
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_11.PNG)
 
-12. `git clone <repo>`
+```
+git clone <repo>
+```
 Clone a repo from github into your local machine.
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_12.PNG)
 
-13. `git merge <branch>`
+```
+git merge <branch>
+```
+Merge <branch> into the current branch.
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_13.PNG)
 
-14. `git log`
+```
+git log
+```
 Display the entire commit history.
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_14.PNG)
 
-15. `git config --global user.name <name>`
+```
+git config --global user.name <name>
+```
 Define the author name to be used for all commits by the current user
-![]()
+![](https://github.com/Sumegh20/gittutorials/blob/main/img/Git_Command_15.PNG)
